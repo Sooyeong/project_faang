@@ -1,7 +1,11 @@
 # SWE/ML Engineer Interview Preparation Note for Faang Companies
 
+
+
+
+<p>
 This github repository will contain preparation process of SWE position interview at FAANG companies.
-It may contains-
+<br/> <br/>It may contains-
 
 * 1. Leetcode Problem Explanation
 * 2. Statistics/ML Concepts Review
@@ -9,6 +13,9 @@ It may contains-
 * 4. Timelines of Application/Interviews
 
 
+<code>R/Python/Jave will be mainly used</code>
+
+</p>
 
 
 
